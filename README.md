@@ -5,8 +5,9 @@
 - 📫 How to reach me: edwinchacko2001@gmail.com
 - ⚡ Fun fact: ...
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chackochii&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chackochii&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chackochii&show_icons=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chackochii&layout=compact&count_private=true&theme=radical)
+
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chackochii&theme=radical&no-frame=true&margin-w=10)
 
