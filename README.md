@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=averak&layout=compact&langs_count=10&hide=html,css)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=averak&layout=compact&langs_count=10&hide=html,css)
 <br/>
 
 <!-- Stats Card -->
