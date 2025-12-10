@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/chackochii/langs)](https://githubtrends.io)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <!-- Stats Card -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
