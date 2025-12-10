@@ -10,8 +10,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chackochii&hide=contribs,prs)
-
+![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chackochii&show_icons=true&theme=radical)
 <br/>
 <br/>
 
