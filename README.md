@@ -10,8 +10,7 @@
 
 <div align="center">
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=averak&layout=compact&langs_count=10&hide=html,css)
-<br/>
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
 <!-- Stats Card -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
