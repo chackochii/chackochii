@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/chackochii/langs)](https://githubtrends.io)
 
 <!-- Stats Card -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
