@@ -1,13 +1,3 @@
-I understand! It looks like you accidentally copied my instructions (like "Option 1", "Tips", etc.) into your file instead of just the code. That is why it looks like a mix of text and broken links.
-
-To fix this, delete everything currently in your README.md file and paste the code block below. This contains only your bio and the working code for the images.
-
-Copy and Paste this exactly:
-code
-Markdown
-download
-content_copy
-expand_less
 ### 👋 Hi, I’m Edwin Chacko
 
 - 👀 I’m interested in ...
@@ -39,14 +29,3 @@ expand_less
 </a>
 
 </div>
-What this will do:
-
-It puts your bio at the top.
-
-It adds a separator line (---).
-
-It centers your Trophies at the top.
-
-It puts your Stats and Languages side-by-side (or stacked on mobile) below the trophies.
-
-It uses the "Radical" theme you liked.
