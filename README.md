@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=aws,react,node,html,css,js,git,bitbucket,nodejs,postman,ts&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,react,node,css,js,git,bitbucket,nodejs,postman,ts&perline=10)](https://skillicons.dev)
 
 <!-- Stats Card -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
