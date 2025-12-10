@@ -10,12 +10,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chackochii)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=chackochii&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chackochii&hide=contribs,prs)
 
 <br/>
 <br/>
