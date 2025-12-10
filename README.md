@@ -13,9 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,react,node,css,js,git,bitbucket,nodejs,postman,ts&perline=10)](https://skillicons.dev)
 
 <!-- Stats Card -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chackochii&show_icons=true&theme=radical&count_private=true" alt="Edwin's GitHub Stats" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chackochii&theme=dark)](https://git.io/streak-stats)
 
 <!-- Top Languages Card -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
